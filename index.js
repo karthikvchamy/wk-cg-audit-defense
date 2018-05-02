@@ -2,7 +2,7 @@ const brain = require("brain.js");
 const network = new brain.NeuralNetwork();
 const db = require("./db.json");
 
-const data = db.returns.map((d)=>{return d.data});
+const data = JSON.parse(db).map((d)=>{return d.data});
 
 network.train(data);
 
