@@ -1,0 +1,147 @@
+{
+  "returns": [
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 95000,
+          "c": 40000
+        },
+        "output": {
+          "audit": 1
+        }
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 105000,
+          "c": 4000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 190000,
+          "c": 4000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 95000,
+          "c": 8000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 4
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 95000,
+          "c": 38000
+        },
+        "output": {
+          "audit": 1
+        }
+      },
+      "id": 5
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 172523,
+          "c": 42000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 6
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 225000,
+          "c": 85800
+        },
+        "output": {
+          "audit": 1
+        }
+      },
+      "id": 7
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 195000,
+          "c": 4000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 8
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 95000,
+          "c": 4000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 9
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 55000,
+          "c": 4000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 10
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 134500,
+          "c": 4000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 11
+    }
+  ]
+}

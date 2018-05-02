@@ -1,0 +1,77 @@
+{
+  "returns": [
+    {
+      "data": {
+        "input": {
+          "h": 6,
+          "w": 250
+        },
+        "output": {
+          "adult": 1
+        }
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "input": {
+          "h": 5,
+          "w": 230
+        },
+        "output": {
+          "adult": 1
+        }
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "input": {
+          "h": 1,
+          "w": 30
+        },
+        "output": {
+          "child": 1
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "input": {
+          "h": 2,
+          "w": 40
+        },
+        "output": {
+          "child": 1
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "input": {
+          "h": 2,
+          "w": 55
+        },
+        "output": {
+          "child": 1
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "input": {
+          "type": 1,
+          "gi": 134500,
+          "c": 4000
+        },
+        "output": {
+          "cool": 1
+        }
+      },
+      "id": 3
+    }
+  ]
+}
