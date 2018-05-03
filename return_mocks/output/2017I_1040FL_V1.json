@@ -1,11 +1,13 @@
 {
   "data": {
     "input": {
-      "h": 6,
-      "w": 250
-    },
-    "output": {
-      "adult": 1
+      "returnID": "2017I:BT_IKIDI:v1",
+      "taxYear": 2017,
+      "returnType": "1040 Individual",
+      "clientID": "BT_IKID1",
+      "form1040Line12": 4209,
+      "form1040Line37": 223912,
+      "scheduleALine21": 1800
     }
   }
 }
