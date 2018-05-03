@@ -1,10 +1,10 @@
 {
   "data": {
     "input": {
-      "taxYear": 2017,
+      "taxYear": 2016,
       "returnType": 1,
-      "form1040Line12": 4209,
-      "form1040Line37": 223912,
+      "form1040Line12": -4209,
+      "form1040Line37": 3912,
       "scheduleALine21": 1800
     }
   }

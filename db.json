@@ -4,54 +4,12 @@
             "input": {
                 "taxYear": 2017,
                 "returnType": 1,
-                "form1040Line12": -13315,
-                "form1040Line37": 264265,
-                "scheduleALine21": 0
-            },
-            "output": {
-                "c1": 1
-            }
-        }
-    },
-    {
-        "data": {
-            "input": {
-                "taxYear": 2017,
-                "returnType": 1,
-                "form1040Line12": -13315,
-                "form1040Line37": 264265,
-                "scheduleALine21": 0
-            },
-            "output": {
-                "c1": 1
-            }
-        }
-    },
-    {
-        "data": {
-            "input": {
-                "taxYear": 2017,
-                "returnType": 1,
-                "form1040Line12": 0,
-                "form1040Line37": 107400,
-                "scheduleALine21": 0
-            },
-            "output": {
-                "c0": 1
-            }
-        }
-    },
-    {
-        "data": {
-            "input": {
-                "taxYear": 2017,
-                "returnType": 1,
                 "form1040Line12": 8900,
                 "form1040Line37": 865250,
                 "scheduleALine21": 100
             },
             "output": {
-                "c3": 1
+                "c0": 1
             }
         }
     },
@@ -65,7 +23,7 @@
                 "scheduleALine21": 3700
             },
             "output": {
-                "c3": 1
+                "c1": 1
             }
         }
     },
@@ -79,7 +37,7 @@
                 "scheduleALine21": 6050
             },
             "output": {
-                "c3": 1
+                "c1": 1
             }
         }
     },
@@ -93,7 +51,7 @@
                 "scheduleALine21": 1580
             },
             "output": {
-                "c3": 1
+                "c1": 1
             }
         }
     },
@@ -107,7 +65,7 @@
                 "scheduleALine21": 3520
             },
             "output": {
-                "c2": 1
+                "c0": 1
             }
         }
     },
@@ -121,7 +79,7 @@
                 "scheduleALine21": 1800
             },
             "output": {
-                "c2": 1
+                "c0": 1
             }
         }
     },
@@ -135,7 +93,7 @@
                 "scheduleALine21": 1800
             },
             "output": {
-                "c3": 1
+                "c0": 1
             }
         }
     },
@@ -149,7 +107,21 @@
                 "scheduleALine21": 308
             },
             "output": {
-                "c3": 1
+                "c1": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": -13315,
+                "form1040Line37": 264265,
+                "scheduleALine21": 0
+            },
+            "output": {
+                "c0": 1
             }
         }
     }

@@ -24,6 +24,7 @@ exports.train = function (req, res) {
                     return console.log(err1);
                 }
                 console.log("Update to db successful!");
+                res.send(200);
             });
         });
     });
@@ -31,14 +32,11 @@ exports.train = function (req, res) {
 
 exports.assess = function (req, res) {
     const data = db.map((d) => { return d.data });
-    console.log('------------');
-    console.log(data);
-    console.log('------------');
     network.train(data);
     var outputPath = path.join(__dirname, '../..', 'return_mocks', 'output', req.body.id + '.json');
+    console.log(outputPath);
     fs.readFile(outputPath, 'utf8', function (ex, dt) {
         var rs = JSON.parse(dt);
-        console.log(rs.data.input);
         const result = network.run(rs.data.input);
         res.json(result);
     });

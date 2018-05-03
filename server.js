@@ -12,13 +12,6 @@ routes(app); //register the route
 app.listen(port);
 
 app.all(function (req, res, next) {
-  // // Website you wish to allow to connect
-  // res.setHeader('Access-Control-Allow-Origin', '*');
-  // res.setHeader('Access-Control-Allow-Headers', '*');
-  // // Request methods you wish to allow
-  // res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
-  // next();
-  console.log("api hit");
   res.setHeader('Access-Control-Allow-Origin',  '*');
   res.setHeader('Access-Control-Allow-Methods',  'GET,PUT,POST,DELETE,OPTIONS');
   res.setHeader("Access-Control-Allow-Credentials", "true");
@@ -32,4 +25,4 @@ app.all(function (req, res, next) {
 });
 
 
-console.log('todo list RESTful API server started on: ' + port);
+console.log('CCH AI server is running on: ' + port);
