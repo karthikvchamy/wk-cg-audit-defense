@@ -32,6 +32,34 @@
             "input": {
                 "taxYear": 2017,
                 "returnType": 1,
+                "form1040Line12": 0,
+                "form1040Line37": 57400,
+                "scheduleALine21": 0
+            },
+            "output": {
+                "c0": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": 0,
+                "form1040Line37": 200000,
+                "scheduleALine21": 0
+            },
+            "output": {
+                "c0": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
                 "form1040Line12": -8900,
                 "form1040Line37": 865250,
                 "scheduleALine21": 100

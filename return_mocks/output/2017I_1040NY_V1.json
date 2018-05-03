@@ -3,8 +3,8 @@
     "input": {
       "taxYear": 2017,
       "returnType": 1,
-      "form1040Line12": 209,
-      "form1040Line37": 3912,
+      "form1040Line12": -5209,
+      "form1040Line37": 123912,
       "scheduleALine21": 800
     }
   }
