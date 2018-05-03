@@ -2,10 +2,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:1040EVAL:V1",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "1040EVAL",
+                "returnType": 1,
                 "form1040Line12": -13315,
                 "form1040Line37": 264265,
                 "scheduleALine21": 0
@@ -18,10 +16,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:1040EVAL:V1",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "1040EVAL",
+                "returnType": 1,
                 "form1040Line12": -13315,
                 "form1040Line37": 264265,
                 "scheduleALine21": 0
@@ -34,26 +30,22 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:1040EVALSMAL:V1",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "1040EVALSMAL",
+                "returnType": 1,
                 "form1040Line12": 0,
                 "form1040Line37": 107400,
                 "scheduleALine21": 0
             },
             "output": {
-                "noRisk": 1
+                "c0": 1
             }
         }
     },
     {
         "data": {
             "input": {
-                "returnID": "2017I:105811:V2",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "105811",
+                "returnType": 1,
                 "form1040Line12": 8900,
                 "form1040Line37": 865250,
                 "scheduleALine21": 100
@@ -66,10 +58,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:1040EVALSMAL:V2",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "1040EVALSMAL",
+                "returnType": 1,
                 "form1040Line12": -5900,
                 "form1040Line37": 75000,
                 "scheduleALine21": 3700
@@ -82,10 +72,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:1040EVal:V5",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "1040EVAL",
+                "returnType": 1,
                 "form1040Line12": 6685,
                 "form1040Line37": 284265,
                 "scheduleALine21": 6050
@@ -98,10 +86,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:JR_25555EVAl:V3",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "JR_25555EVAl",
+                "returnType": 1,
                 "form1040Line12": -203456,
                 "form1040Line37": 13390,
                 "scheduleALine21": 1580
@@ -114,10 +100,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:803454:v5",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "803454",
+                "returnType": 1,
                 "form1040Line12": 0,
                 "form1040Line37": 252645,
                 "scheduleALine21": 3520
@@ -130,10 +114,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:1040-NRADual:v2",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "NRADual",
+                "returnType": 1,
                 "form1040Line12": 0,
                 "form1040Line37": 85000,
                 "scheduleALine21": 1800
@@ -146,10 +128,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:BT_IKIDI:v1",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "BT_IKID1",
+                "returnType": 1,
                 "form1040Line12": 4209,
                 "form1040Line37": 223912,
                 "scheduleALine21": 1800
@@ -162,10 +142,8 @@
     {
         "data": {
             "input": {
-                "returnID": "2017I:INDCAL71:v1",
                 "taxYear": 2017,
-                "returnType": "1040 Individual",
-                "clientID": "INDCAL71",
+                "returnType": 1,
                 "form1040Line12": -257500,
                 "form1040Line37": -259266,
                 "scheduleALine21": 308

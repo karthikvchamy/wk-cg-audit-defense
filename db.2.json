@@ -1,1 +1,158 @@
-{"returns":[{"data":{"input":{"h":6,"w":250},"output":{"adult":1}},"id":1},{"data":{"input":{"h":5,"w":230},"output":{"adult":1}},"id":1},{"data":{"input":{"h":1,"w":30},"output":{"child":1}},"id":2},{"data":{"input":{"h":2,"w":40},"output":{"child":1}},"id":2},{"data":{"input":{"h":2,"w":55},"output":{"child":1}},"id":2},{"data":{"input":{"type":1,"gi":134500,"c":4000},"output":{"cool":1}},"id":3},{"data":{"input":{"h":6,"w":250},"output":{"adult":1}}},{"data":{"input":{"h":6,"w":250},"output":{"adult":1}}},{"data":{"input":{"h":6,"w":250},"output":{"adult":1}}},{"data":{"input":{"h":6,"w":250},"output":{"adult":1}}},{"data":{"input":{"h":6,"w":250},"output":{"adult":1}}}]}
+[
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": -13315,
+                "form1040Line37": 264265,
+                "scheduleALine21": 0
+            },
+            "output": {
+                "c1": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": -13315,
+                "form1040Line37": 264265,
+                "scheduleALine21": 0
+            },
+            "output": {
+                "c1": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": 0,
+                "form1040Line37": 107400,
+                "scheduleALine21": 0
+            },
+            "output": {
+                "noRisk": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": 8900,
+                "form1040Line37": 865250,
+                "scheduleALine21": 100
+            },
+            "output": {
+                "c3": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": -5900,
+                "form1040Line37": 75000,
+                "scheduleALine21": 3700
+            },
+            "output": {
+                "c3": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": 6685,
+                "form1040Line37": 284265,
+                "scheduleALine21": 6050
+            },
+            "output": {
+                "c3": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": -203456,
+                "form1040Line37": 13390,
+                "scheduleALine21": 1580
+            },
+            "output": {
+                "c3": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": 0,
+                "form1040Line37": 252645,
+                "scheduleALine21": 3520
+            },
+            "output": {
+                "c2": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": 0,
+                "form1040Line37": 85000,
+                "scheduleALine21": 1800
+            },
+            "output": {
+                "c2": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+                
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": 4209,
+                "form1040Line37": 223912,
+                "scheduleALine21": 1800
+            },
+            "output": {
+                "c3": 1
+            }
+        }
+    },
+    {
+        "data": {
+            "input": {
+               
+                "taxYear": 2017,
+                "returnType": 1,
+                "form1040Line12": -257500,
+                "form1040Line37": -259266,
+                "scheduleALine21": 308
+            },
+            "output": {
+                "c3": 1
+            }
+        }
+    }
+]
